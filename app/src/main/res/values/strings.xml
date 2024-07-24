@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">stop watch</string>
+    <string name="start">START</string>
+    <string name="stop">STOP</string>
+    <string name="reset">RESET</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="time_will_show_here">TIME WILL SHOW HERE</string>
+</resources>
