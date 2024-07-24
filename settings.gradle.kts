@@ -19,6 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "stop watch"
+rootProject.name = "MY calculator"
 include(":app")
- 
